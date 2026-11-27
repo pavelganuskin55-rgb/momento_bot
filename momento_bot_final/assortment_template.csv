@@ -1,0 +1,5 @@
+id,category,name,desc,price,img,in_stock
+red-25,roses,25 красных роз,"Бархатные розы в матовой чёрной упаковке с лентой",4500,images/red25.jpg,TRUE
+peony-15,peonies,Нежный пионовидный микс,"Кремовые и пудровые пионовидные розы с эвкалиптом",5200,images/peony15.jpg,TRUE
+white-51,roses,51 белая и пудровая роза,"Пышный круглый букет в графитовом крафте",8900,images/white51.jpg,TRUE
+author-mix,designer,Авторский с гортензией,"Белая гортензия, нежные розы и свежий эвкалипт",6400,images/author.jpg,TRUE
